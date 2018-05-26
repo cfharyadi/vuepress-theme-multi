@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-multi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "util.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/cfharyadi/vuepress-theme-multi/issues"
   },
   "homepage": "https://github.com/cfharyadi/vuepress-theme-multi#readme",
-  "devDependencies": {
+  "peerDependencies": {
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1"
   }
